@@ -1,0 +1,1 @@
+# Sequential-Low-High-Low-Recognition-with-Trend-Context-Dual-Stop-Loss-Control-and-Volume-Driven-Exit
